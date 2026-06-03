@@ -1,0 +1,6 @@
+{
+  "name": "Website Mockup Generator",
+  "description": "Automatically generate, preview, and manage website mockups from Google Sheets data with multi-provider deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
